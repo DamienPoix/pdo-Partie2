@@ -1,0 +1,10 @@
+body{
+    font-family: 'K2D', sans-serif;
+      background-image: url(../img/hpbg.jpg);
+    background-attachment: fixed;
+}
+.other{
+    border: 2px darkblue solid;
+    border-radius: 25px 25px 0px 0px;
+    font-size: 20px;
+}

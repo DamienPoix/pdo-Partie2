@@ -1,0 +1,20 @@
+body{
+    background-image: url(../img/hpbg.jpg);
+    background-attachment: fixed;
+}
+td,th{
+    border: 1px black solid;
+    font-size: 35px;
+    color: white;
+    background-color: rgba(10,10,10,0.7);
+    text-align: center;
+    padding: 10px;
+}
+table{
+    margin-left: 600px;
+}
+h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+}
